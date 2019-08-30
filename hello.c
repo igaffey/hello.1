@@ -3,6 +3,9 @@
 
 int main(into argc, char **argv) {
 
-  printf("Hello World!\");
+  printf("ireland gaffey\n");
+  printf("computer science\n");
+  printf("Joseph Zakaria");
+  printf("Computer Science");
   return 0;
 }
